@@ -7,5 +7,5 @@ Companies I worked with
 </div>
 Knowledge
 <div style="display: flex; gap: 10px;">
-<i class="devicon-angularjs-plain"></i>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
             </div>
