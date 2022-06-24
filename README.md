@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my Github profile.
+## 👋 Hello! Welcome to my Github.
 ### My name is Denis Carvalho 
 
 Companies I worked with
