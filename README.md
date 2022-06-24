@@ -32,4 +32,6 @@ Knowledge
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-0052CC?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ionic-CC6699?style=for-the-badge&logo=ionic&logoColor=white"/>
 </div>
