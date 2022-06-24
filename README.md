@@ -4,6 +4,8 @@
 Companies I worked with
 <div>
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
+  <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_rede.jpg"/>
+  
 </div>
 Knowledge
 <div style="display: flex; gap: 10px;">
