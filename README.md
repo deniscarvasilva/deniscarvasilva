@@ -5,6 +5,7 @@ Companies I worked with
 <div>
 <img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
   <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_rede.jpg"/>
+  <img height="100px" src="https://pbs.twimg.com/profile_images/1132723696450375680/YtbsFPw7_400x400.jpg"/>
   
 </div>
 Knowledge
