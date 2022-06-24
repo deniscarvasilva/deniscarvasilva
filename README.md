@@ -2,8 +2,10 @@
 ### My name is Denis Carvalho 
 
 Companies I worked with
-
+<div>
+<img height="100px" src="http://ongrenovar.com.br/images/itau-logo.jpg"/>
+</div>
 Knowledge
-
-            <i class="devicon-angularjs-plain"></i>
-          
+<div style="display: flex; gap: 10px;">
+<i class="devicon-angularjs-plain"></i>
+            </div>
