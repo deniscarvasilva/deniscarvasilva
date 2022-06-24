@@ -35,3 +35,6 @@ Knowledge
   <img src="https://img.shields.io/badge/Android-0052CC?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ionic-CC6699?style=for-the-badge&logo=ionic&logoColor=white"/>
 </div>
+
+## Contact me
+<a href="https://www.linkedin.com/in/denis-carvalho-b8081838/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
